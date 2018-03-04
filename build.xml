@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="test-app" basedir="." xmlns:mantis="antlib:com.ibm.mantis">
+	
   
     <property environment="env"/>
 	<property name="dist_dir" value="dist"/>
